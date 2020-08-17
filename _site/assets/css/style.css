@@ -572,3 +572,9 @@ body { font-family: "Poppins", sans-serif; background-color: #fff1de; } /*#f8f6d
 /* Add your custom style here */
 .link-after, .nav-link::after, .navbar-brand::after, .nav-item.active::after { content: ""; display: block; height: 0.15em; background: #2a7a19; }
 
+
+.music_widget_center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
