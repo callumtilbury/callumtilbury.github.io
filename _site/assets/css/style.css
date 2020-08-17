@@ -281,7 +281,7 @@
 /* Comment.PreprocFile */
 html { padding-left: calc(100vw - 100%); }
 
-body { font-family: "Poppins", sans-serif; background-color: #f1eee2 ;}
+body { font-family: "Poppins", sans-serif; background-color: #fff1de; } /*#f8f6df ;}*/
 
 .badge { font-weight: 500; }
 
