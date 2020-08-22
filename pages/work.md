@@ -2,7 +2,7 @@
 layout: page
 title: work
 permalink: /work/
-weight: 3
+weight: 2
 ---
 
 # **About Me**
