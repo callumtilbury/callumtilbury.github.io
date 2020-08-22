@@ -29,3 +29,42 @@ weight: 1
     {% endfor %}
   </div>
 </div>
+
+<br/>
+
+#### short courses
+
+<div class="col mt-4">
+  <div class="timeline-body">
+    <div class="timeline-item">
+        <div class="content">
+        <div class="row">
+            <div class="col-12">
+                <h4>UCT Global Citizenship</h4>
+                <div>
+                    <h5><i>Dialogue and Deliberation for Active Citizenship</i></h5>
+                    <h6 class="date">Aug 2020 - present</h6>
+                </div>
+                <div>
+                    <h5><i>Citizenship & Social Justice: Activism, Service and Social Change</i></h5>
+                    <h6 class="date">Feb 2020 — July 2020</h6>
+                </div>
+            </div>
+        </div>
+        </div>
+      </div>
+    <div class="timeline-item">
+        <div class="content">
+        <div class="row">
+            <div class="col-12">
+                <h4> UCT CHED: Multilingualism Education Project</h4>
+                <div>
+                    <h5><i>Basic Xhosa Communication</i></h5>
+                    <h6 class="date">July 2018 - Oct 2018</h6>
+                </div>
+            </div>
+        </div>
+        </div>
+      </div>
+  </div>
+</div>
