@@ -581,13 +581,14 @@ body { font-family: "Poppins", sans-serif; background-color: #fff1de; } /*#f8f6d
 
 .gr_grid_container {
   /* customize grid container div here. eg: width: 500px; */
+  width: 100%;
 }
 
 .gr_grid_book_container {
   /* customize book cover container div here */
   float: left;
-  /* width: 39px; */
-  height: 200px;
+  width: 20%;
+  height: 100%;
   padding: 0px 0px;
   overflow: hidden;
 }
