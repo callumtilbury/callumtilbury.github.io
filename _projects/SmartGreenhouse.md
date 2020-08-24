@@ -1,20 +1,8 @@
 ---
 name: Smart Greenhouse
 tools: [Python, Blynk, Raspberry Pi]
-image:
-description:
+image: /assets/projects/greenhouse/front.jpg
+description: >-
+    The aim of this project was to prototype a simple environment logger—one that could record ambient temperature, humidity, and light, and report these values to a user. Two interfaces were designed: one to be viewed in the Raspberry Pi terminal, and another on a phone running a simple Blynk application. Click here to read the full report.
+external_url: /assets/projects/greenhouse/final_report.pdf
 ---
-
-# The Movies Project
-
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
-
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
-
-## Search Movies
-
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
-
-<p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>
