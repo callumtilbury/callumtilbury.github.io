@@ -5,6 +5,10 @@ permalink: /about/
 weight: 9
 ---
 
+<div class="row justify-content-center">
+    <img src="/assets/ocean.gif" width="100%">
+</div>
+
 <br/>
 
 <div class="row justify-content-center">

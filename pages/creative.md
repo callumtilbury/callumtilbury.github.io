@@ -6,12 +6,15 @@ permalink: /creative
 ---
 
 <br/>
+Throughout my life, I have loved mathematics, science, and the technology that these disciplines enable. I enjoy the rigour, the logical structure. However, I am equally passionate about creativity. Of course, there is creativity in the aforementioned fields; but I also enjoy the more overtly creative disciplines, in particular, photography and music. 
+<br/>
+<br/>
 
 <div class="row justify-content-center">
   <div class="col-lg-4 col-md-6 text-left mt-4">
     <b> digital photography </b> <br/>
     I was incredibly blessed to be gifted with a digital camera when I was 14 years old, and I quickly fell in love with photography. I began taking photos everywhere—portraits of my friends, early morning landscapes, sports days at school. Over time, I built up the brand of 'Callum Tilbury Photography', under which I photographed several weddings and dozens of birthday celebrations. <br/>
-    Since then, I have partnered with <a href="https://www.instagram.com/_gemmamae">Gemma Mae</a> to work on a collaborative project, <a href="https://www.instagram.com/rhysmae">Rhys Mae</a>.
+    Since then, I have partnered with <a href="https://www.instagram.com/_gemmamae">Gemma Mae</a> to work on a collaborative project, <a href="https://www.instagram.com/rhysmae">Rhys Mae</a>, where we offer broad creative solutions, with a focus on wedding and event photography.
   </div>
     <div class="col-md-8">
         {% capture carousel_images %}
@@ -27,8 +30,8 @@ permalink: /creative
 
 <div class="row justify-content-center">
   <div class="col-lg-4 col-md-6 text-left mt-4">
-    <b> analog photography </b>
-    
+    <b> analogue photography </b> <br/>
+    In 2013, I picked up my parents' old Cosina CT1 Super—the film camera with which they photographed my childhood—and shoved in some 35mm Kodak Porta 400. This started my journey of film photography. When budget allows, I love grabbing a couple rolls and photographing something interesting, something different. While I still enjoy using my digital camera, there is an unmistakable thrill of analogue photography, and a marked rawness. I thoroughly enjoy it.
   </div>
     <div class="col-md-8">
         {% capture carousel_images %}
@@ -46,7 +49,8 @@ permalink: /creative
 <div class="row justify-content-center">
   <div class="col-lg-4 col-md-6 text-left mt-4">
     <b> music </b><br/>
-    <p>I love making music.</p>
+    When I was 11, I faced a decision: learn to play the drums, or the guitar? I was excited about both, but time was limited, and I wanted to focus on one. I chose the latter, and I think my parents (and neighbours) were glad. I had the fortunate experience of having a wonderful teacher. We did not dive into the musical theory-though I have tried to pick up pieces here and there, since then-but instead, we just jammed. I grew to love the instrument, and love playing music in general.<br/>
+    Over time, I featured in a handful of bands; and I wrote and recorded some of my own music in my bedroom. My latest project is called Goodbye, Corolla. Unfortunately, I don't make a lot of time for the project, but I enjoy picking up my guitar as a study break—and usually the creative juices start flowing exactly when exam season begins.
   </div>
     <div class="col-md-8">
         <div class="music_widget_center">
@@ -58,18 +62,6 @@ permalink: /creative
         <div class="music_widget_center">
           <iframe width="100%" height="500" src="https://www.youtube-nocookie.com/embed/qA5FRvzFL0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
-    </div>
-</div>
-
-<br/>
-
-<div class="row justify-content-center">
-  <div class="col-lg-4 col-md-6 text-left mt-4">
-    <b> design </b><br/>
-    <p> </p>
-  </div>
-    <div class="col-md-8">
-        <p>hullo</p>
     </div>
 </div>
 

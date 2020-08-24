@@ -1,6 +1,6 @@
 ---
 name: Simulated Helicopter Controller Design
-tools: [Controller Design, Simulation, Analog Electronics]
+tools: [Controller Design, Simulation, Analogue Electronics]
 image: /assets/projects/helicopter/front.png
 description: >-
     Here, a simulated helicopter control situation was presented, and an analogue controller was built to track a desired height set-point, within certain performance specifications.
