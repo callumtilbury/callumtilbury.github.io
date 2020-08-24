@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<!--
+  portfolYOU Jekyll theme by Youssef Raafat
+  Free for personal and commercial use under the MIT license
+  https://github.com/YoussefRaafatNasry/portfolYOU
+-->
+
+<html lang="en" class="h-100">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="aspiring engineer, creative, entrepreneur, and friend">
+
+  <title>callum rhys tilbury</title>
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+
+  <!-- Font Awesome CDN -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.0/css/all.css">
+
+  <!-- Bootstrap CSS CDN -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+  <!-- Animate CSS CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css" type="text/css"/>
+  
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/assets/css/style.css" type="text/css">
+
+</head>
+
+
+<body class="d-flex flex-column h-100">
+
+  <main class="flex-shrink-0 container mt-5">
+  <nav class="navbar navbar-expand-lg navbar-light">
+
+  <a class="navbar-brand" href="/"><h5><b>callum rhys tilbury</b></h5></a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav ml-auto"><a class="nav-item nav-link " href="/404.html"></a>
+
+      <a class="nav-item nav-link " href="/education/">education</a>
+
+      <a class="nav-item nav-link " href="/experience/">experience</a>
+
+      <a class="nav-item nav-link " href="/creative">creative</a>
+
+      <a class="nav-item nav-link active" href="/projects/">projects</a>
+
+      <a class="nav-item nav-link " href="/about/">about me</a>
+
+      
+
+    </div>
+  </div>
+
+</nav>
+  <div class="col-lg-10 mx-auto mt-5 post">
+  <div class="row">
+    <img src="../assets/projects/sonar/top_view.png" alt="" width="50%" style="vertical-align:top;margin:0px 0px" />
+    <img src="../assets/projects/sonar/veroboard.jpg" alt="" width="50%" style="vertical-align:top;margin:0px 0px" />
+</div>
+
+<h2 id="40khz-ultrasonic-sonar">40kHz Ultrasonic SONAR</h2>
+
+<p>This project involved the design and development of a small two-dimensional SONAR system, using cheap 40kHz ultrasonic sensors and a <a href="https://www.pjrc.com/store/teensy36.html">Teensy 3.6</a> development board.</p>
+
+<h4 id="brief-description">Brief Description</h4>
+<p>This system operated by sending out short chirp sound waves, centered at 40kHz (which is ultrasonic), and then timing the delayed echo signals. Using the received temporal offset and phase difference information, predictions about the scene could be made.</p>
+
+<p>The transmitted wave was generated using a digital signal from the Teensy, which was thereafter amplified by analog circuitry. The incoming, received waves were conditioned, and then sampled by the Teensy’s onboard analog-to-digital converters. This data was then sent to the host computer via a Serial connection. There, the data was shifted to baseband, matched filtered, and analysed. By using two receiver channels, range and angle values could be determined in the horizontal plane.</p>
+
+<h4 id="demonstration">Demonstration</h4>
+<p>A demonstration of this system can be seen in the screenshots and video below.</p>
+
+<p><img src="../assets/projects/sonar/SampleScene.jpg" alt="" width="100%" style="vertical-align:top;margin:0px 0px rounded" /></p>
+
+<iframe width="100%" height="500" src="https://www.youtube-nocookie.com/embed/qydfnggtQR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h4 id="project-report">Project Report</h4>
+<p>The full project report can be found <a href="../assets/projects/sonar/final_report.pdf">here</a>.</p>
+
+</div>
+  </main>
+
+  <footer class="mt-auto py-3 text-center">
+
+  <small class="text-muted mb-2">
+    <i class="fas fa-code"></i> with <i class="fas fa-heart"></i>
+    by <strong>callum tilbury</strong>
+  </small>
+
+  <div class="container-fluid justify-content-center"><a class="social mx-1"  href="mailto:callum@tilbury.co.za"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#db4437'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fas fa-envelope fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.github.com/callumtilbury"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#333333'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-github fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.linkedin.com/in/callumtilbury"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#007bb5'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-linkedin-in fa-1x"></i>
+    </a>
+
+</div><small id="attribution">
+    theme <a href="https://github.com/YoussefRaafatNasry/portfolYOU">portfolYOU</a>
+  </small>
+  
+</footer>
+  
+  <!-- GitHub Buttons -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- jQuery CDN -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Popper.js CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+
+<!-- Bootstrap JS CDN -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<!-- wow.js CDN & Activation -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+<script> new WOW().init(); </script>
+
+<!-- Initialize all tooltips -->
+<script>
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+})
+</script>
+
+</body>
+
+</html>
