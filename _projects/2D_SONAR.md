@@ -9,8 +9,8 @@ description: >-
 ---
 
 <div class="row">
-    <img src= "../assets/projects/sonar/top_view.png" alt="" width="50%" style="vertical-align:top;margin:0px 0px">
-    <img src= "../assets/projects/sonar/veroboard.jpg" alt="" width="50%" style="vertical-align:top;margin:0px 0px">
+    <img src= "../assets/projects/sonar/top_view.png" alt="" width="50%" height="auto" style="vertical-align:top;margin:0px 0px">
+    <img src= "../assets/projects/sonar/veroboard.jpg" alt="" width="50%" height="auto" style="vertical-align:top;margin:0px 0px">
 </div>
 
 ## 40kHz Ultrasonic SONAR
@@ -28,6 +28,8 @@ A demonstration of this system can be seen in the screenshots and video below.
 <img src= "../assets/projects/sonar/SampleScene.jpg" alt="" width="100%" style="vertical-align:top;margin:0px 0px rounded">
 
 <iframe width="100%" height="500" src="https://www.youtube-nocookie.com/embed/qydfnggtQR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
 
 #### Project Report
 The full project report can be found [here](../assets/projects/sonar/final_report.pdf).

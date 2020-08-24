@@ -9,7 +9,7 @@ description: >-
 ---
 
 <div class="row justify-content-center">
-    <img src= "../assets/projects/polyphonic_dds/keyboard.png" alt="" width="100%" style="vertical-align:top;margin:0px 150px">
+    <img src= "../assets/projects/polyphonic_dds/keyboard.png" alt="" width="100%" height="auto" style="vertical-align:top;margin:0px 150px">
 </div>
 
 ## Polyphonic Synthesizer using Direct Digital Synthesis on an FPGA
