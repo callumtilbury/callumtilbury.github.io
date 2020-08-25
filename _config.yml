@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : callum rhys tilbury
 description         : >-
-                      aspiring engineer, creative, entrepreneur, and friend
+                      aspiring engineer, creative, entrepreneur, leader, and friend
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : callumtilbury/callumtilbury.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 

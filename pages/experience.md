@@ -17,6 +17,9 @@ weight: 2
             <div class="col-10">
                 <h4>{{ item.company }}</h4>
                 <h5><i>{{ item.location }}</i></h5>
+                {% if item.website %}
+                  <h6><a target="_blank" href="{{ item.website }}">Website <i class="fas fa-external-link-alt"></i></a></h6>
+                {% endif %}
             </div>
         </div>
         <br/>

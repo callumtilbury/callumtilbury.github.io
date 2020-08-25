@@ -1,16 +1,19 @@
 - image: /assets/images/agof_logo.png
   company: Allan Gray Orbis Foundation
   location: Cape Town, South Africa
+  website: https://www.allangrayorbis.org/
   roles:
       - title: Candidate Fellow
         period: Jan 2019 - present
         description: >-
-            The AGOF fellowship is a personal, academic, and entrepreneurial development programme that aims to help shape the leaders of tomorrow. Part of this includes full funding for tertiary studies, as well as mentorship, entrepreneurship training, networking events, and more. 
+            The Allan Gray Orbis Foundation fellowship is a personal, academic, and entrepreneurial development programme that aims to help shape the leaders of tomorrow. Part of this includes full funding for tertiary studies, as well as mentorship, entrepreneurship training, networking events, and more.
+            
             
 
 - image: /assets/images/peralex_logo.png
   company: Peralex Electronics
   location: Cape Town, South Africa
+  website: https://www.peralex.com/
   roles:
       - title: Vacation Work Student
         period: Dec 2019 - Jan 2020
@@ -33,6 +36,7 @@
 - image: /assets/images/pwc_logo.png
   company: PwC South Africa
   location: Johannesburg, South Africa
+  website: https://www.pwc.co.za/
   roles:
       - title: Advisory Intern
         period: June 2019 - July 2020
@@ -44,6 +48,7 @@
 - image: /assets/images/uct_logo.gif
   company: UCT Dept. of Electrical Engineering
   location: Cape Town, South Africa
+  website: http://www.ee.uct.ac.za/
   roles:
       - title: >-
             Tutor: Control Systems Engineering (EEE3094S)
