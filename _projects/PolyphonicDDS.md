@@ -1,6 +1,6 @@
 ---
 name: Polyphonic Synthesizer using Direct Digital Synthesis on an FPGA
-tools: [Verilog, FPGA, Audio Processing]
+tools: [Verilog, FPGA, C++, Audio Processing]
 image: /assets/projects/polyphonic_dds/Concept_PlanA.jpg
 description: >-
     This project involved prototyping a simple audio synthesizer on a reconfigurable computing platform, a Nexys A7 Artix-7 FPGA. This synthesizer was able to play musical tones through an output audio port with specified frequencies, amplitudes, and waveform types. Moreover, multiple tones were able to play simultaneously–i.e. it was polyphonic.
