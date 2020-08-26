@@ -11,7 +11,7 @@ weight: 9
     <p>
         Thanks so much for checking out my personal website. The other tabs on this site have explored some of the formal depictions of who I am—what I studied, where I have worked, the exciting projects I have completed, and my creative portfolio.</p>
     <p>
-        Though these aspects of my life are important, they do not constitute everything that 'Callum Tilbury' is. Of course, sharing absolutely everything with the internet is not a great idea, and I don't plan to do that. Nevertheless, it's nice to share some of the informal aspects of who I am—things that aren't really important to anyone else but me. Hopefully, in doing this, I can give you, O Surfer of the Internet, a small glimpse into my life.</p>
+        Though these aspects of my life are important, they do not constitute everything that 'Callum Tilbury' is. Of course, sharing absolutely everything with the internet is not a great idea, and I don't plan to do that. Nevertheless, it's nice to share some of the informal aspects of who I am. Hopefully, in doing this, I can give you, O Surfer of the Internet, a small glimpse into my life.</p>
 </div>
 
 
@@ -98,7 +98,7 @@ weight: 9
     <b>running</b> <br/>
     <p><i>It all started with a Parkrun.</i></p>
     <p>I think my fitness story is shared by many others: I always wanted to get into running, but I never committed—I felt like I didn't have the time or energy. That is, until I started attending my local Parkrun—where I was met with a warm community and a weekly commitment. After that, I fell in love!</p>
-    <p>I have certainly gone through seasons in my running—periods of ease, and periods of absolute slog. I think this is normal, and it often reflects how other aspects of my life are going. Nevertheless, running is an incredibly activity for both my mind and body, and I am so grateful to have the ability to partake in it.</p>
+    <p>I have certainly gone through seasons in my running—periods of ease, and periods of absolute slog. I think this is normal, and it often reflects how other aspects of my life are going. Nevertheless, running is an incredible activity for both my mind and body, and I am so grateful to have the ability to partake in it.</p>
     <p>Since I am currently in a slog-ish phase, I've shown here a run from a while back: my 21km personal best, from a time where I was feeling great. I know I'll get back there eventually!</p>
   </div>  
     <div class="col-md-8"><br/>
