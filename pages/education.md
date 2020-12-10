@@ -43,7 +43,7 @@ weight: 1
                 <h4>UCT Global Citizenship</h4>
                 <div>
                     <h5><i>Dialogue and Deliberation for Active Citizenship</i></h5>
-                    <h6 class="date">Aug 2020 - present</h6>
+                    <h6 class="date">Aug 2020 - Oct 2020</h6>
                 </div>
                 <div>
                     <h5><i>Citizenship & Social Justice: Activism, Service and Social Change</i></h5>
