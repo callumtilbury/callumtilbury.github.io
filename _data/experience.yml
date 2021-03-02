@@ -1,3 +1,12 @@
+- image: /assets/images/peralex_logo.png
+  company: Peralex Electronics
+  location: Cape Town, South Africa
+  website: https://www.peralex.com/
+  roles:
+      - title: Software Development Engineer
+        period: Feb 2021 - present
+
+
 - image: /assets/images/agof_logo.png
   company: Allan Gray Orbis Foundation
   location: Cape Town, South Africa
