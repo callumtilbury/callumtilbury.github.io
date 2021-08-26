@@ -13,8 +13,10 @@
 <body class="d-flex flex-column h-100">
 
   <main class="flex-shrink-0 container mt-5">
-  {% include navbar.html %}
-  {{ content }}
+    {% include navbar.html %}
+    <div style="text-align: justify;line-height: 1.5;">
+      {{ content }}
+    </div>
   </main>
 
   {% include footer.html %}

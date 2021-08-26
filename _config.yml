@@ -20,7 +20,6 @@ nav_exclude:                                            # The following paths ar
   - pages/about me.md
   - pages/creative.md
 
-
 ### Author Info ###
 author:
   name              : callum tilbury
@@ -47,7 +46,6 @@ author:
 
 ### Posts ###
 permalink: /blog/:title
-
 
 ### Collections ###
 collections:
