@@ -1,3 +1,10 @@
+- image: /assets/images/uoe_logo.png
+  qualification: MSc Artificial Intelligence
+  institution: University of Edinburgh
+  from: 2021
+  to: 2022
+  description: >-
+
 - image: /assets/images/uct_logo.gif
   qualification: BSc(Eng) Electrical & Computer Engineering
   institution: University of Cape Town
@@ -45,7 +52,7 @@
               <li> UCT Athletics Club </li>
             </ul>
 
-            Full transcript can be found <a href="/assets/pdfs/TLBCAL002_transcript.pdf" target="_blank">here <i class="fas fa-external-link-alt"></i></a>.
+            Final transcript can be found <a href="/assets/pdfs/TLBCAL002_transcript.pdf" target="_blank">here <i class="fas fa-external-link-alt"></i></a>.
             <br/>
             
 
