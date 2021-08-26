@@ -8,6 +8,7 @@ repository          : callumtilbury/callumtilbury.github.io     # Change to <you
 ### Plugins ###
 plugins:
   - jemoji
+  - jekyll-feed
 
 
 ### Navbar Settings ###
