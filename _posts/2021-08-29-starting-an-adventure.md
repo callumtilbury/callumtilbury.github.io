@@ -111,3 +111,8 @@ With that preamble out of the way, I am excited to share my journey of the past 
     <img class="imagecenter" src="/assets/blog/2021-08-30/staying-sane.jpg" alt="" style="width:80%">
 </div>
 <p class="caption">Staying Sane</p>
+
+<div class="row">
+    <img class="imagecenter" src="/assets/blog/2021-08-30/outside-with-coffee.jpg" alt="" style="width:80%">
+</div>
+<p class="caption">Outside with Coffee</p>

@@ -13,12 +13,11 @@ Throughout my life, I have loved mathematics, science, and the technology that t
 <div class="row justify-content-center">
   <div class="col-lg-4 col-md-6 text-left mt-4">
     <b> digital photography </b> <br/>
-    I was incredibly blessed to be gifted with a digital camera when I was 14 years old, and I quickly fell in love with photography. I began taking photos everywhere—portraits of my friends, early morning landscapes, sports days at school. Over time, I built up the brand of 'Callum Tilbury Photography', under which I photographed several weddings and dozens of birthday celebrations. <br/>
-    Since then, I have partnered with <a href="https://www.instagram.com/_gemmamae">Gemma Mae</a> to work on a collaborative project, <a href="https://www.instagram.com/rhysmae">Rhys Mae</a>, where we offer broad creative solutions, with a focus on wedding and event photography.<br/>
+    I was incredibly blessed to be gifted with a digital camera when I was 14 years old, and I quickly fell in love with photography. I began taking photos everywhere—portraits of my friends, early morning landscapes, sports days at school. Over time, I built up the brand of 'Callum Tilbury Photography', under which I photographed several weddings and dozens of birthday celebrations. These days, I don't shoot any formal photography gigs, opting rather to take my camera along with me on daily adventures, capturing as I go.<br/>
   </div>
     <div class="col-md-8">
         {% capture carousel_images %}
-            {%- for i in (1..20) -%}
+            {%- for i in (1..27) -%}
                 /assets/images/portfolio/callumtilbury-portfolio-digital-{{i}}.jpg
             {% endfor %}
         {% endcapture %}
