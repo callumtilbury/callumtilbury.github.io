@@ -613,3 +613,24 @@ button {
   padding: 0px 0px;
   overflow: hidden;
 }
+
+.row {
+  display: flex;
+}
+
+.columnthree {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+.caption {
+  text-align: center;
+  color: gray;
+}
+
+.imagecenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
