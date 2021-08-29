@@ -98,7 +98,7 @@ Even more excitingly, I can see some of the university buildings not far off in 
 
 The weather has been surprisingly pleasant, with a week of wonderful days. It is usually somewhat misty in the mornings, but that clears up as the day progresses. I feel like I am being sold a lie of what Edinburgh's weather will be like---a lie which I will happily accept for as long as possible. After all, *winter is coming*.
 
-As for the food, it has been decent. After a while, getting your food delivered in paper bags three times a day does lose its novelty, but most of the meals have been delicious. Frankly, the most challenging part of eating has been timing things correctly---the lunches are usually a little sparse, whereas the dinners are usually a little heavy; but the lack of a fridge means its mostly an eat-right-now kind of game. My solution was to buy snacks online from Tesco (look at me, fancy pants), and maintain a permanently snacked state.
+As for the food, it has been decent. After a while, getting your food delivered in paper bags three times a day does lose its novelty, but most of the meals have been delicious. Frankly, the most challenging part of eating has been timing things correctly---the lunches are usually a little sparse, whereas the dinners are usually a little heavy; but the lack of a fridge means its mostly an eat-right-now kind of game. My solution was to buy snacks online from Tesco (look at me, fancy pants), and maintain a permanently snacked state (I'll probably need to work that off later).
 <div>
  <div class="row">
     <div class="columnthree">
