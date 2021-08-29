@@ -70,7 +70,7 @@ Schiphol airport was refreshingly efficient, with clear signage and the like. Ob
   <p class="caption">Experience at Schiphol Airport (featuring a Heineken in the home of Heineken!)</p>
 </div>
 
-The second flight was around an hour, and my experience at the Scottish border was fortunately pleasant. Sadly one of my suitcase pockets had been ripped open---the one in which I had put some razor blades. Strangely enough, though, everything was left in its place, *except* my dental floss---is that normal???
+The second flight was around an hour, and my experience at the Scottish border was fortunately pleasant. Sadly one of my suitcase pockets had been ripped open at some point---the one in which I had put several razor blades. Strangely enough, though, everything was left in its place, including the blades, *except* my dental floss---is that normal???
 
 Anyway, because South Africa is currently on the UK's "red" travel list, all incoming persons must quarantine in a hotel for 11 days, for an eye-wateringly high price (£1750 when I booked, now sitting at £2285). After arriving, I was quickly escorted to said hotel, where I have been living for the past week.
 
@@ -95,6 +95,8 @@ Even more excitingly, I can see some of the university buildings not far off in 
     <img class="imagecenter" src="/assets/blog/2021-08-30/edinburgh-castle-landscape.jpg" alt="" style="width:80%">
 </div>
 <p class="caption">Edinburgh Castle in the distance</p>
+
+The weather has been surprisingly pleasant, with a week of wonderful days. It is usually somewhat misty in the mornings, but that clears up as the day progresses. I feel like I am being sold a lie of what Edinburgh's weather will be like---a lie which I will happily accept for as long as possible. After all, *winter is coming*.
 
 As for the food, it has been decent. After a while, getting your food delivered in paper bags three times a day does lose its novelty, but most of the meals have been delicious. Frankly, the most challenging part of eating has been timing things correctly---the lunches are usually a little sparse, whereas the dinners are usually a little heavy; but the lack of a fridge means its mostly an eat-right-now kind of game. My solution was to buy snacks online from Tesco (look at me, fancy pants), and maintain a permanently snacked state.
 <div>
