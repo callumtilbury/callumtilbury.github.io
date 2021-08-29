@@ -28,7 +28,7 @@ And so, here it is: my blog! I cannot promise it will always be interesting, and
 With that preamble out of the way, I am excited to share my journey of the past week.
 
 <div class="row">
-    <img class="imagecenter" src="/assets/blog/2021-08-30/flight-tinted-windows.jpg" alt="Tinted Window in Plane" style="width:30%">
+    <img class="imagecenter" src="/assets/blog/2021-08-30/flight-tinted-windows.jpg" alt="Tinted Window in Plane" style="width:40%">
 </div>
 <p class="caption">Wonderful view... from a tinted window</p>
 
@@ -48,9 +48,9 @@ With that preamble out of the way, I am excited to share my journey of the past 
 <p class="caption">Views from the plane</p>
 
 <div class="row">
-    <img class="imagecenter" src="/assets/blog/2021-08-30/covid-testing-landscape.jpg" alt="" style="width:70%">
+    <img class="imagecenter" src="/assets/blog/2021-08-30/covid-testing-landscape.jpg" alt="" style="width:80%">
 </div>
-<p class="caption">COVID test</p>
+<p class="caption">Self-administered COVID test</p>
 
 <div>
  <div class="row">
@@ -67,8 +67,47 @@ With that preamble out of the way, I am excited to share my journey of the past 
   <p class="caption">Schiphol Airport</p>
 </div>
 
-
 <div class="row">
-    <img class="imagecenter" src="/assets/blog/2021-08-30/edinburgh-castle-landscape.jpg" alt="" style="width:70%">
+    <img class="imagecenter" src="/assets/blog/2021-08-30/edinburgh-castle-landscape.jpg" alt="" style="width:80%">
 </div>
 <p class="caption">Edinburgh Castle in the distance</p>
+
+<div class="row">
+    <img class="imagecenter" src="/assets/blog/2021-08-30/view-university-portrait.jpg" alt="" style="width:40%">
+</div>
+<p class="caption">University of Edinburgh</p>
+
+<div>
+ <div class="row">
+    <div class="columnthree">
+        <img src="/assets/blog/2021-08-30/breakfast-portrait.jpg" alt="" style="width:100%">
+    </div>
+    <div class="columnthree">
+        <img src="/assets/blog/2021-08-30/lunch-portrait.jpg" alt="" style="width:100%">
+    </div>
+    <div class="columnthree">
+        <img src="/assets/blog/2021-08-30/food-pizza.jpg" alt="" style="width:100%">
+    </div>
+  </div>
+  <p class="caption">Food</p>
+</div>
+
+<div>
+ <div class="row">
+    <div class="columnthree">
+        <img src="/assets/blog/2021-08-30/view-misty-portrait.jpg" alt="" style="width:100%">
+    </div>
+    <div class="columnthree">
+        <img src="/assets/blog/2021-08-30/view-clear-day-portrait.jpg" alt="" style="width:100%">
+    </div>
+    <div class="columnthree">
+        <img src="/assets/blog/2021-08-30/view-sainsburys-portrait.jpg" alt="" style="width:100%">
+    </div>
+  </div>
+  <p class="caption">Views</p>
+</div>
+
+<div class="row">
+    <img class="imagecenter" src="/assets/blog/2021-08-30/staying-sane.jpg" alt="" style="width:80%">
+</div>
+<p class="caption">Staying Sane</p>

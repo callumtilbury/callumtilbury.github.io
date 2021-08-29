@@ -623,6 +623,11 @@ button {
   padding: 5px;
 }
 
+.columntwo {
+  flex: 50%;
+  padding: 5px;
+}
+
 .caption {
   text-align: center;
   color: gray;
@@ -633,4 +638,8 @@ button {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.imagetest {
+  max-height:285px
 }
