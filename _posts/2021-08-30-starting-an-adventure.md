@@ -36,7 +36,7 @@ However, as time progressed, something seemed strange. The scene looked peculiar
 </div>
 <p class="caption">The tinted window created some funky photo effects</p>
 
-Indeed, my amazing sunrise experience was built upon a lie. Nonetheless, it was certainly unforgettable and it made me chuckle. Once I had de-tinted my window (look at me, fancy pants), the sight was still spectacular. I am unsure if the novelty of seeing clouds from an airplane wears off---I did seem to be the only person in the vicinity taking millions of photos out of the window---but I feel no shame, for it is honestly magical.
+Indeed, my amazing sunrise experience was built upon a lie. Nonetheless, it was certainly unforgettable and it made me chuckle. Once I had de-tinted my window (look at me, fancy pants), the sight was spectacular. I am unsure if the novelty of seeing clouds from an airplane wears off---I did seem to be the only person in the vicinity taking millions of photos out of the window---but I feel no shame, for it is honestly magical.
 
 <div>
  <div class="row">
@@ -70,7 +70,7 @@ Schiphol airport was refreshingly efficient, with clear signage and the like. Ob
   <p class="caption">Experience at Schiphol Airport (featuring a Heineken in the home of Heineken!)</p>
 </div>
 
-The second flight was around an hour, and my experience at the Scottish border was fortunately pleasant. Sadly one of my suitcase pockets had been ripped open at some point---the one in which I had put several razor blades. Strangely enough, though, everything was left in its place, including the blades, *except* my dental floss---is that normal???
+The second flight was around an hour long, and my experience at the Scottish border was fortunately pleasant. Sadly one of my suitcase pockets had been ripped open at some point---the one in which I had put several razor blades. Strangely enough, though, everything was left in its place, including the blades, *except* my dental floss, which had seemingly been removed---is that normal???
 
 Anyway, because South Africa is currently on the UK's "red" travel list, all incoming persons must quarantine in a hotel for 11 days, for an eye-wateringly high price (£1750 when I booked, now sitting at £2285). After arriving, I was quickly escorted to said hotel, where I have been living for the past week.
 
@@ -134,7 +134,7 @@ On rest days, I have enjoyed just sitting outside too:
 
 On top of all these good fortunes, a true highlight of the stay here has been the other guests. Funnily enough, I have met more South Africans thus far in the UK, than people of any other nationality---including British! Each day our pack grows when a new guest arrives and says, "howzit guys?" Even my Tesco naartjies---uh, sorry, "mandarin oranges"---are from South Africa! Some of the guests are like me, starting studies here, while others are just passing through or returning home, but across the board, there has been a fantastic vibe. We have been sharing many chats and laughs outside. Bartering has even begun---I traded some filter coffee for some Ouma rusks (which I see as an absolute win).
 
-On the whole, then, I am doing well---I am staying sane. This blog has occupied a lot of my time, and I certainly will not have that luxury when the semester begins. But the journey so far, albeit limited, has been great, and I hope to continue documenting it. I am feeling incredibly grateful and overwhelmingly blessed.
+On the whole, then, I am doing well---I am staying sane. Setting up this blog has occupied a lot of my time, and I certainly will not have that luxury when the semester begins. But the journey so far, albeit limited, has been great, and I hope to continue documenting it. I am feeling incredibly grateful and overwhelmingly blessed.
 
 <div class="row">
     <img class="imagecenter" src="/assets/blog/2021-08-30/staying-sane.jpg" alt="" style="width:80%">
