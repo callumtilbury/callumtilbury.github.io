@@ -90,7 +90,7 @@ My room is fairly spacious, and my view is fantastic:
   </div>
 <p class="caption">Views from my window</p>
 
-Even more excitingly, I can see some of the university buildings not far off in the distance, along with the famous Edinburgh Castle:
+I can also see some of the university buildings not far off in the distance, along with the famous Edinburgh Castle:
 <div class="row">
     <img class="imagecenter" src="/assets/blog/2021-08-30/edinburgh-castle-landscape.jpg" alt="" style="width:80%">
 </div>
