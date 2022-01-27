@@ -327,7 +327,7 @@ button {
 .post a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):hover::after { width: 100%; }
 .post pre { background: #f8f9fa; border: 1px solid #ddd; color: #343a40; font-family: monospace; font-size: 14px; line-height: 20px; margin-bottom: 1.6em; max-width: 100%; padding: 1em 1.5em; display: block; page-break-inside: avoid; overflow: auto; word-wrap: break-word; }
 .post code.highlighter-rouge { background-color: #f8f9fa; color: #343a40; border-radius: 3px; margin: 0; padding: 0.2em 0.65em; }
-.post blockquote { border-left: 0.25em solid #007bff; color: #6c757d; padding: 0 1em; }
+.post blockquote { border-left: 0.25em solid #294768; color: #6c757d; padding: 0 1em; }
 .post table { display: block; overflow-x: auto; margin: 1rem 0; }
 .post table td, .post table th { border: 1px solid #ddd; padding: 8px 16px; }
 .post table th { padding-top: 12px; padding-bottom: 12px; font-weight: 500; text-align: left; background-color: #007bff; color: white; }
@@ -625,6 +625,11 @@ button {
 
 .columntwo {
   flex: 50%;
+  padding: 5px;
+}
+
+.columnone {
+  flex: 100%;
   padding: 5px;
 }
 
