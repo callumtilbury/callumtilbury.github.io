@@ -618,6 +618,16 @@ button {
   display: flex;
 }
 
+.columnfive {
+  flex: 20%;
+  padding: 5px;
+}
+
+.columnfour {
+  flex: 25%;
+  padding: 5px;
+}
+
 .columnthree {
   flex: 33.33%;
   padding: 5px;
