@@ -92,3 +92,6 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+
+# Build settings
+markdown: kramdown

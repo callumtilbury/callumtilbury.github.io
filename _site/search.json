@@ -1,11 +1,19 @@
 [
   
     {
+      "title"    : "A Chapter Ends",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/blog/a-chapter-ends",
+      "date"     : "2022-12-31 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Enriched",
       "category" : "",
       "tags"     : "",
       "url"      : "/blog/enriched",
-      "date"     : "2022-01-28 00:00:00 +0000"
+      "date"     : "2022-01-28 00:00:00 +0200"
     } ,
   
     {
@@ -13,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/blog/over-soon",
-      "date"     : "2021-09-17 00:00:00 +0100"
+      "date"     : "2021-09-17 00:00:00 +0200"
     } ,
   
     {
@@ -21,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/blog/starting-an-adventure",
-      "date"     : "2021-08-30 00:00:00 +0100"
+      "date"     : "2021-08-30 00:00:00 +0200"
     } 
   
 ]
