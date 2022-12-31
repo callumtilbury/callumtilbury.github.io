@@ -3,7 +3,6 @@ title: A Chapter Ends
 style: 
 color:
 description:
-usemathjax: true
 ---
 
 <div>
@@ -17,7 +16,7 @@ usemathjax: true
 
 Hello, friends!
 
-It's official: the exponential curve, $$n = 11.3e^{1.14t}$$, can be fitted pretty well to my posting frequency—at this rate, the much-anticipated post #5 is due in... 2025 :)
+It's official: the exponential curve, n = 11.3e^(1.14t), can be fitted pretty well to my posting frequency—at this rate, the much-anticipated post #5 is due in... 2025 :)
 
 Jokes aside—with my tendency for nerdiness revealed—hi! Despite the enormous challenges the world continues to face, I hope 2022 was good for you. It was good for me—incredibly so. My lack of posting does not reflect a lack of activity, quite the opposite. My year was *full*, probably the fullest of my life. The rollercoaster saw long library sessions and beautiful birthday celebrations, early-morning swims and late-night pub-crawls, photoshoots with friends and jam sessions with strangers. I broke bread with people who I grew to love, and I heard their stories. Then, wonderfully, I participated in making *new* stories with them. I met people from every corner of the earth, and I laughed heartily with them. I learned and cried and grew. Truly, I exit this year a different person from he who entered.
 
