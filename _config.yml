@@ -89,6 +89,9 @@ defaults:
     values:
       comments: false                                   # Set to true to enable disqus comments
 
+include:
+  - .well-known
+
 ### Exclude from processing ###
 exclude:
   - README.md
