@@ -1,9 +1,12 @@
 html, body {
     height: 100%;
     margin: 0;
-  }
-  
+}
+
 body {
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -28,6 +31,9 @@ p {
     margin-bottom: 0.5em;  /* Default spacing after a paragraph */
 }
 
+a {
+    text-decoration: none;
+}
   
 footer {
     font-size: x-small;
@@ -51,8 +57,7 @@ footer {
 }
 
 .links a {
-    text-decoration: none;
-    padding: 0 0.4rem;
+    padding: 0 0.5rem;
 }
 
 a:hover {
