@@ -1,6 +1,6 @@
 html, body {
     height: 100%;
-    margin: 0;
+    margin-top: 0.5em;
 }
 
 body {
@@ -21,7 +21,7 @@ main {
     justify-content: center; /* vertical center */
     align-items: left;     /* horizontal center */
     flex: 1;                 /* take up remaining space */
-    max-width: 400px;
+    max-width: min(85%, 400px);
     margin: 0 auto;
     text-align: left;
 }
