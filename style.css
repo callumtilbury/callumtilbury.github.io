@@ -1,6 +1,6 @@
 html, body {
     height: 100%;
-    margin-top: 0.5em;
+    margin-top: 0;
 }
 
 body {
@@ -80,5 +80,5 @@ a:hover {
     border-radius: 50%;   /* This makes it circular */
     object-fit: cover;    /* Ensures image fills the circle nicely without distortion */
     margin-top: 1em;      /* Add some spacing above the image */
-    margin-bottom: 1em;   /* Add some spacing below the image */
+    margin-bottom: 0.7em;   /* Add some spacing below the image */
 }
